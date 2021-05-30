@@ -93,6 +93,7 @@ html
 
 .navbar .menu li a
 {
+    display: block;
     color: white; 
     font-size: 18px;
     font-weight: 500;
